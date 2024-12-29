@@ -23,7 +23,7 @@
 #
 # Required ENV vars:
 # ------------------
-#   JAVA_HOME - location of a JDK home dir
+JAVA_HOME=/home/shen/download/java-1.8.0-openjdk-portable-1.8.0.432.b06-1.portable.jdk.el.x86_64
 #
 # Optional ENV vars
 # -----------------
